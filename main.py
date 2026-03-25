@@ -4,7 +4,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ChatPer
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes
 
 # ================== CONFIG ==================
-TOKEN = "8685912597:AAHzqRcTNbyd0dum2JFtZ9tzWAkxyre_7Lo"
+TOKEN = "8685912597:AAFWwKI0XJEUDQLO7zGLe-gLIar1ZBEp4cI"
 OWNER_ID = 2011675494
 DEV_USERNAME = "ShexSaqar"
 CHANNEL_USERNAME = "ybpi1" 
